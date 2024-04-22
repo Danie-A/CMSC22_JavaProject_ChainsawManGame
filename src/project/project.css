@@ -1,0 +1,48 @@
+/*
+For applying CSS in JavaFx
+*/
+.splashButton {
+    -fx-font:20px Verdana;
+    -fx-font-weight: bold;
+    -fx-pref-width: 200px;
+    -fx-pref-height: 58px;
+    -fx-background-color: #280c08;
+    -fx-text-fill: #efe7e6;
+    -fx-effect: dropshadow( one-pass-box, black , 8 , 0.0 , 2 , 0 )
+}
+
+.splashButton:hover{
+    -fx-font:22px Verdana;
+    -fx-font-weight: bold;
+    -fx-background-color: #e1d0cd;
+    -fx-text-fill: #280c08;
+}
+
+.splashButton:pressed{
+    -fx-background-color: #1b0805;
+    -fx-text-fill:  #efe7e6;
+}
+
+.backButton {
+    -fx-font:20px Verdana;
+    -fx-font-weight: bold;
+    -fx-pref-width: 140px;
+    -fx-pref-height: 50px;
+    -fx-background-color: #dbc8c6;
+    -fx-text-fill: #280c08;
+    -fx-effect: dropshadow( one-pass-box, black , 8 , 0.0 , 2 , 0 );
+}
+
+.backButton:hover{
+    -fx-font:22px Verdana;
+    -fx-font-weight: bold;
+    -fx-background-color: #efe8e7;
+    -fx-text-fill: #280c08;
+}
+
+.backButton:pressed{
+    -fx-background-color: #dbc8c6;
+    -fx-text-fill: #280c08;
+}
+
+

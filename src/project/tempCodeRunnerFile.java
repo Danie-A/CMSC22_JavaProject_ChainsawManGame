@@ -1,0 +1,1 @@
+    private final static Image DENJI_IMAGE = new Image("images/Denji.png", Denji.DENJI_INIT_SIZE, Denji.DENJI_INIT_SIZE, true, true);
