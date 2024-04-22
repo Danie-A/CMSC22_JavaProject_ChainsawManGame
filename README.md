@@ -1,6 +1,6 @@
 ### README
 
-- STILL IN CONSTRUCTION
+- 🔨 STILL IN CONSTRUCTION ⚒️
 
 ### Game Name
 
@@ -16,8 +16,8 @@ The Chainsaw Man: Blob Game
 
 - 2 power-ups can be collected by Denji:
 
-* [1] Pochita Power-Up - player will be immune to monsters
-* [2] Chainsaw Power-Up - player's speed will increase two times faster
+  - [1] Pochita Power-Up - player will be immune to monsters
+  - [2] Chainsaw Power-Up - player's speed will increase two times faster
 
 - If a devil monster eats Denji because it is larger than him, then, the game will end.
 
