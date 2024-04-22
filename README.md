@@ -1,10 +1,12 @@
-### README
+## 📖 README
 
-- 🔨 STILL IN CONSTRUCTION ⚒️
+- 🔨 STILL UNDER CONSTRUCTION ⚒️
 
-### Game Name
+## 🎮 Game Name
 
 The Chainsaw Man: Blob Game
+
+<img style="margin: 2px;" src="src/images/SplashBG.jpg" alt="Screenshot of Game Mechanics." width="400"/>
 
 ### Project Description
 
@@ -20,6 +22,8 @@ The Chainsaw Man: Blob Game
   - [2] Chainsaw Power-Up - player's speed will increase two times faster
 
 - If a devil monster eats Denji because it is larger than him, then, the game will end.
+
+<img style="margin: 10px;" src="src/images/InstructBG.jpg" alt="Screenshot of Game Mechanics." width="400"/>
 
 ### Java Version
 
