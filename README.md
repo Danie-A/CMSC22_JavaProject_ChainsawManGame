@@ -1,7 +1,7 @@
 ## 📖 README
 
 > [!WARNING]
-> 🔨 STILL UNDER CONSTRUCTION ⚒️
+> 🔨 README STILL UNDER CONSTRUCTION ⚒️
 
 ## 🎮 Game Name
 
